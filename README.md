@@ -3,8 +3,8 @@
 - **Frontend** web developer from Japan.
 - University student (**Aoyama Gakuin University**)
 - I majored in **sociology** in university.
-- **2022/10~** Start Learning!
-- **2023/5~**  Long-term Internship Start!
+- **2022/10~**   Start Learning!
+- **2023/5~**    Long-term Internship Start!
 
 
 <p align="left"> 
