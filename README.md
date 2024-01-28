@@ -27,5 +27,11 @@
 
 + [TOKOTOKO=J](https://tokotokoj.vercel.app)
   +  **Soccer SNS App**
+ 
+## My Article
+
+https://zenn.dev/kumaaa1212/books/40f51b4b30275c
+
+
 
 
