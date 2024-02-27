@@ -24,7 +24,15 @@
  
 ## My Article
 
+### JavaScript
+https://zenn.dev/kumaaa1212/books/7876efc9a4ad17
 https://zenn.dev/kumaaa1212/books/40f51b4b30275c
+
+### React
+https://zenn.dev/kumaaa1212/books/de1de39af01c3d
+
+### TypeScript
+https://zenn.dev/kumaaa1212/books/bd5b8edd72ac71
 
 
 
