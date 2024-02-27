@@ -17,11 +17,6 @@
 - FastAPI
 - Ruby
 
-## My products
-
-+ [TOKOTOKO=J](https://tokotokoj.vercel.app)
-  +  **Soccer SNS App**
- 
 ## My Article
 
 ### JavaScript
